@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Jarvis</string>
+    <string name="qs_tile_label">Jarvis AI</string>
+    <string name="nav_core">Core</string>
+    <string name="nav_device">Control</string>
+    <string name="nav_media">Studio</string>
+    <string name="nav_assistant">Tasks</string>
+    <string name="nav_settings">Settings</string>
+    <string name="firebase_ai_notice">Gemini AI brain is in placeholder mode because Firebase is not enabled. Enable Firebase to connect live Gemini models; OpenAI Responses API &amp; offline device controls remain available.</string>
+    <string name="notification_channel_name">Assistant Background Service</string>
+    <string name="notification_channel_desc">Persistent status bar controls for your personal AI assistant without screen overlays.</string>
+    <string name="action_activate">Activate</string>
+    <string name="action_voice_chat">Voice Chat</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_resume">Resume</string>
+    <string name="action_stop">Stop</string>
+    <string name="action_settings">Settings</string>
+</resources>

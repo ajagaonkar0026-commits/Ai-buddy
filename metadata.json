@@ -1,0 +1,6 @@
+{
+  "name": "Jarvis",
+  "description": "Personal AI assistant with customizable identity, male/female voice interaction, Gemini and OpenAI orchestration, Android phone control, photo and video editing, document generation, offline mode, and notification status bar controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
